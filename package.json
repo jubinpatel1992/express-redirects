@@ -1,0 +1,24 @@
+{
+  "name": "express-redirects",
+  "version": "1.0.0",
+  "description": "This package allows the user to configure redirects with a JSON file.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubinpatel1992/express-redirects.git"
+  },
+  "keywords": [
+    "express",
+    "url-redirect",
+    "http-redirects"
+  ],
+  "author": "Jubin Patel <jubinpatel5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jubinpatel1992/express-redirects/issues"
+  },
+  "homepage": "https://github.com/jubinpatel1992/express-redirects#readme"
+}
